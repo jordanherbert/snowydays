@@ -23,8 +23,8 @@ function burrito2(){
 radio2 = createRadio();
 radio2.position(windowWidth/2,2*windowHeight/3);
   radio2.class("bdd");
-  radio2.option('Yes',4);
-  radio2.option('No ',5);
+  radio2.option('YES!!!',4);
+  radio2.option('No... ',5);
   radio2.style('width','50px');
 
 }
